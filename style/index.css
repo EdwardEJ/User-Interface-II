@@ -111,6 +111,10 @@ footer {
   margin-top: 4%;
 }
 
+footer p {
+  line-height: 1.5;
+}
+
 @media all and (max-width: 650px) {
 
   body {
