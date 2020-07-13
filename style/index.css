@@ -139,13 +139,8 @@ footer p {
     margin: 2%;
   }
 
-  .header-top ul {
-    flex-direction: column;
-  }
-
   .header-nav {
     flex-direction: column;
-    justify-content: center;
     width: 15%;
   }
 
