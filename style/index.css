@@ -114,6 +114,7 @@ footer {
 
 footer p {
   line-height: 1.5;
+  font-size: 1.5rem;
 }
 
 @media (max-width: 800px) {
@@ -151,7 +152,7 @@ footer p {
     margin: 5%;
   }
 
-  .project-container {
+  #projects .project-container {
     width: 47%;
   }
 
@@ -160,5 +161,15 @@ footer p {
 @media (max-width: 500px) {
   .header-nav {
     width: 20%;
+  }
+}
+
+@media (max-width: 320px) {
+  .header-nav a {
+    font-size: 1.5rem;
+  }
+
+  footer a {
+    font-size: 1.5rem;
   }
 }
